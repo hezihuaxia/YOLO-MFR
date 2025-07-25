@@ -68,7 +68,6 @@ Pycharm或其他编程软件
 ## 📺 演示结果
 | 原始图像 | 检测结果 |
 |----------|----------|
-| 示例1 | 示例2 |
 | ![](example/ex6_o.jpg) | ![](example/ex6_r.jpg) |
 | ![](example/ex7_o.jpg) | ![](example/ex7_r.jpg) |
 
